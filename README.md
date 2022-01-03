@@ -11,4 +11,5 @@ CNN is convolutional neural network which can extracts features, then it passes 
 
 #### Process: 
 1 Replication of other’s work. 
+
 2 Application and improvement of the existing model to other stocks. (PetrolChina, Dogecoin, Bitcoin, Bitcoin cash)
